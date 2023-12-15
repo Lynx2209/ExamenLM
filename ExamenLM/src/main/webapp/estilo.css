@@ -1,0 +1,76 @@
+@charset "UTF-8";
+
+
+
+.titulo {
+
+	border: solid black 2px;
+
+	border-radius: 20px;
+
+	text-align: center;
+
+	letter-spacing: 2px;
+
+}
+
+
+
+.invent {
+
+	border: 5px solid black;
+
+}
+
+
+
+.tabla {
+
+	border: 2px solid black;
+
+}
+
+
+
+.lk {
+
+	border-bottom: black 1px solid;
+
+	border-collapse: collapse;
+
+}
+
+
+
+.innerone {
+
+	border-top: black solid 2px;
+
+	border-collapse: collapse;
+
+	border-bottom: black solid 2px;
+
+	background-color: blue;
+
+}
+
+
+
+.innertwo {
+
+	background-color: skyblue;
+
+}
+
+
+
+.innerthree {
+
+	background-color: grey;
+
+	color: white;
+
+}
+
+
+  
